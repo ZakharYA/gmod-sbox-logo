@@ -1,0 +1,11 @@
+{
+	"title"		:	"Garry's Mod: S&box Loading",
+	"type"		:	"effects",
+	"tags"		:	[ "fun", "comic" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
